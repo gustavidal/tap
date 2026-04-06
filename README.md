@@ -1,1 +1,1 @@
-# Termo de Aprovação de Projeto
+# Termo de Abertura de Projeto
