@@ -10,7 +10,7 @@
 
 # 1. Resumo Executivo
 
----
+
 
 # 2. Definição do Projeto
 
@@ -30,6 +30,7 @@ Desenvolver, em até 4 meses, um sistema backend em Java com banco de dados rela
 
 **Objetivos de negócio:**
 
+
 **Objetivos de tecnologia:**
 
 ---
@@ -46,16 +47,24 @@ Desenvolver, em até 4 meses, um sistema backend em Java com banco de dados rela
 ---
 
 ## 2.4 Entregáveis
-
+|       Item      |    Componentes    |    Componentes    |
+|-----------------|    Componentes    |                   
+|-----------------|    Componentes    | 
 ---
 
 # 3. Organização do Projeto
 
 ## 3.1 Usuários
+|              Usuário             |
+|----------------------------------|
+|  Voluntários de ações sociais    | 
+
+
 
 ---
 
 ## 3.2 Stakeholders
+
 
 ---
 
