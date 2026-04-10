@@ -10,7 +10,8 @@
 
 # 1. Resumo Executivo
 
----
+Este documento esta sendo criado para auxiliar na organização e planejamento do projeto,
+visando também eviar riscos desnecessarios que podem ocorrer com o decorrer do planejamento.
 
 # 2. Definição do Projeto
 
