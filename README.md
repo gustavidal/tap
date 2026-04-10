@@ -4,7 +4,7 @@
 
 | Data       | Autor(es)      | Descrição                | Versão |
 | ---------- | -------------- | ------------------------ | ------ |
-| 06/04/2026 | Gustavo Vidal ([gustavidal](https://github.com/gustavidal)) | Criação do documento TAP | 0.1    |
+| 06/04/2026 | Gustavo Vidal ([gustavidal](https://github.com/gustavidal)) | Criação do documento TAP | 1.0    |
 
 ---
 
